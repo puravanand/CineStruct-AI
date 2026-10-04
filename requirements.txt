@@ -1,0 +1,11 @@
+langchain
+dotenv
+python-dotenv
+langchain-google-genai
+langchain-openai
+langchain-huggingface
+langchain-groq
+streamlit
+pydantic
+langchain-community
+tavily-python
