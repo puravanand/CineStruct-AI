@@ -22,8 +22,8 @@ class Structure_data(BaseModel):
     release_year: Optional[int]
     Director: str
     Actress: List[str]
-    Total_cost: int
-    Total_Earn: int
+    Total_cost: float
+    Total_Earn: float
     Language: str
     genre: List[str]
 
